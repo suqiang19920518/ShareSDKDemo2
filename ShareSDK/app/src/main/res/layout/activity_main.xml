@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_share_gui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示分享界面" />
+
+    <Button
+        android:id="@+id/btn_qq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QQ分享" />
+
+    <Button
+        android:id="@+id/btn_qqzone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QQ空间分享" />
+
+    <Button
+        android:id="@+id/btn_wechat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信分享" />
+
+    <Button
+        android:id="@+id/btn_wechat_friend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信朋友圈分享" />
+
+    <Button
+        android:id="@+id/btn_wechat_favorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信收藏夹分享" />
+
+
+    <Button
+        android:id="@+id/btn_qq_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QQ分享图片" />
+
+    <Button
+        android:id="@+id/btn_qqzone_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="QQ空间分享图片" />
+
+    <Button
+        android:id="@+id/btn_wechat_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信分享图片" />
+
+    <Button
+        android:id="@+id/btn_wechat_friend_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信朋友圈分享图片" />
+
+    <Button
+        android:id="@+id/btn_wechat_favorite_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="微信收藏夹分享图片" />
+
+
+</LinearLayout>
